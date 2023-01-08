@@ -5,5 +5,5 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 
 ## Projetos:
 
-* **Tocando um MP3 com Python:** link: https://bit.ly/3Zd8AOG
+* **Tocando um MP3 com Python:** https://bit.ly/3Zd8AOG
   * **Artigo no Medium:** 
