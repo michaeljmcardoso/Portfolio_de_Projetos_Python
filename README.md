@@ -10,6 +10,12 @@
 # Portfolio_de_Projetos_Python
 Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizado da linguagem Python. Projetos de cursos/livros estão neste repositório.
 
+**Background in:** Python, SQL, Data Storytelling, Javascript, HTML5, CSS3.
+
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/)
+* [Medium](https://medium.com/@mjcursodatascience)
+
 ## Projetos:
 
 * **Tocando um MP3 com Python:** https://bit.ly/3Zd8AOG
