@@ -20,3 +20,4 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 
 * **Tocando um MP3 com Python:** https://bit.ly/3Zd8AOG
   * **Artigo no Medium:** https://bit.ly/3XkTmWm
+  * **Artigo no Linkedin:** https://bit.ly/3Xi6lrH
