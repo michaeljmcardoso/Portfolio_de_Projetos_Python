@@ -22,6 +22,7 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
   * **Artigo no Medium:** https://bit.ly/3XkTmWm
   * **Artigo no Linkedin:** https://bit.ly/3Xi6lrH
   
-* **Calculadora.V.2:** https://github.com/michaeljmcardoso/CalculadoraV.2
+* **Calculadora.V.2. com Interface Gráfica:** https://github.com/michaeljmcardoso/CalculadoraV.2
+* **Calculadora Simples.V.1:** https://github.com/michaeljmcardoso/Calculadora
 * **Youtube Downloader:** https://github.com/michaeljmcardoso/Youtube_Downloader
 * **Gerador de QR Code:** https://github.com/michaeljmcardoso/Gerador_de_QRCode
