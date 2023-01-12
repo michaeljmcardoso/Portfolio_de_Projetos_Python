@@ -22,6 +22,6 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
   * **Artigo no Medium:** https://bit.ly/3XkTmWm
   * **Artigo no Linkedin:** https://bit.ly/3Xi6lrH
   
-* **Calculadora:** https://github.com/michaeljmcardoso/CalculadoraV.2
+* **Calculadora.V.2:** https://github.com/michaeljmcardoso/CalculadoraV.2
 
 * **Youtube Downloader:** https://github.com/michaeljmcardoso/Youtube_Downloader
