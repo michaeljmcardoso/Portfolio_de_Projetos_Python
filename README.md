@@ -28,3 +28,4 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 * **Gerador de QR Code:** https://github.com/michaeljmcardoso/Gerador_de_QRCode
 
 * **Gráfico de corrida de barras:** 
+https://github.com/michaeljmcardoso/barChartRace
