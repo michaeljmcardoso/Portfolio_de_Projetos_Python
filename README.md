@@ -32,4 +32,4 @@ https://github.com/michaeljmcardoso/barChartRace
   * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/barChartRace/blob/main/barChartRace.ipynb
 
 * **Gráfico de Barras - Horas do Mundo:** https://github.com/michaeljmcardoso/Horas-do-Mundo
-  * **Colab Notebook:**https://colab.research.google.com/github/michaeljmcardoso/Horas-do-Mundo/blob/main/Gr%C3%A1fico_FusoHor%C3%A1rio.ipynb
+  * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/Horas-do-Mundo/blob/main/Gr%C3%A1fico_FusoHor%C3%A1rio.ipynb
