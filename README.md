@@ -26,3 +26,5 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 * **Calculadora Simples.V.1:** https://github.com/michaeljmcardoso/Calculadora
 * **Youtube Downloader:** https://github.com/michaeljmcardoso/Youtube_Downloader
 * **Gerador de QR Code:** https://github.com/michaeljmcardoso/Gerador_de_QRCode
+
+* **Gráfico de corrida de barras:** 
