@@ -1,4 +1,4 @@
-oI'll[![author](https://img.shields.io/badge/author-michaelcardoso-red.svg)](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/michaeljmcardoso/Portfolio-de-Projetos_DataScience)
+looI'll[![author](https://img.shields.io/badge/author-michaelcardoso-red.svg)](https://www.linkedin.com/in/michael-cardoso-84a9a0b2/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/michaeljmcardoso/Portfolio-de-Projetos_DataScience)
 
 <p align="center">
   <img src="https://miro.medium.com/max/720/1*LI7W501SErbGaQxTYDOKLA.webp">
@@ -29,7 +29,7 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 
 * **Gráfico de corrida de barras:** 
 https://github.com/michaeljmcardoso/barChartRace
-  * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/barChartRace/blob/main/barChartRace.ipynb
+  * **Colab Notebook:**https://colab.research.google.com/github/michaeljmcardoso/barChartRace/blob/main/barChartRace.ipynb
 
 * **Gráfico de Barras - Horas do Mundo:**https://github.com/michaeljmcardoso/Horas-do-Mundo
-  **Colab Notebook:**
+  * **Colab Notebook:**https://colab.research.google.com/github/michaeljmcardoso/Horas-do-Mundo/blob/main/Gr%C3%A1fico_FusoHor%C3%A1rio.ipynb
