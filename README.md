@@ -30,3 +30,5 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 * **Gráfico de corrida de barras:** 
 https://github.com/michaeljmcardoso/barChartRace
   * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/barChartRace/blob/main/barChartRace.ipynb
+
+* **Gráfico de Barras - Horas do Mundo:**
