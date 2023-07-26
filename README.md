@@ -27,7 +27,7 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 * **Youtube Downloader:** https://github.com/michaeljmcardoso/Youtube_Downloader
 * **Gerador de QR Code:** https://github.com/michaeljmcardoso/Gerador_de_QRCode
 
-* **Gráfico de corrida de barras:** 
+* **Gráfico de Corrida de Barras:** 
 https://github.com/michaeljmcardoso/barChartRace
   * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/barChartRace/blob/main/barChartRace.ipynb
 
