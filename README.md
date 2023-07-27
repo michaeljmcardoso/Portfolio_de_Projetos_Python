@@ -27,11 +27,14 @@ Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizad
 * **Youtube Downloader:** https://github.com/michaeljmcardoso/Youtube_Downloader
 * **Gerador de QR Code:** https://github.com/michaeljmcardoso/Gerador_de_QRCode
 
-* **Gráfico de Corrida de Barras:** 
+## Visualizações gráficas:
+
+* **Gráfico Animado de Corrida de Barras - Pontos dos Clubes do Brasileirão Série-B (2022):** 
 https://github.com/michaeljmcardoso/barChartRace
   * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/barChartRace/blob/main/barChartRace.ipynb
 
-* **Gráfico de Barras - Horas do Mundo:** https://github.com/michaeljmcardoso/Horas-do-Mundo
+* **Gráfico de Barras - Horas do Mundo, fuso-horário em tempo real:** https://github.com/michaeljmcardoso/Horas-do-Mundo
   * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/Horas-do-Mundo/blob/main/Gr%C3%A1fico_FusoHor%C3%A1rio.ipynb
+  
 * **Gráfico de Waffle - Preferência de Marcas de Cerveja:** https://github.com/michaeljmcardoso/Grafico-de-Waffle
-* **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/Grafico-de-Waffle/blob/main/Quando_Usar_e_Como_Criar_um_Gr%C3%A1fico_de_Waffle.ipynb
+  * **Colab Notebook:** https://colab.research.google.com/github/michaeljmcardoso/Grafico-de-Waffle/blob/main/Quando_Usar_e_Como_Criar_um_Gr%C3%A1fico_de_Waffle.ipynb
