@@ -8,7 +8,7 @@
 <sub>*Antropólogo e Cientista de Dados* </sub>
 
 # Portfólio de Projetos Python
-Aqui reúno meus projetos realizados no âmbito de desenvolvimento do aprendizado da linguagem Python. Projetos de cursos/livros estão neste repositório.
+Aqui reúno meus projetos pessoais realizados no âmbito de desenvolvimento do aprendizado da linguagem Python. Projetos de cursos/livros estão neste repositório.
 
 **Background in:** Python, SQL, Data Storytelling, Javascript, HTML5, CSS3.
 
